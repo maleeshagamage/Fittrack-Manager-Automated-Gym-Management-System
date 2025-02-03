@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FittrackMS", "FittrackMS\FittrackMS.csproj", "{78B8CA73-6DE9-430B-B3C6-8E9272C58E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B8CA73-6DE9-430B-B3C6-8E9272C58E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B8CA73-6DE9-430B-B3C6-8E9272C58E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B8CA73-6DE9-430B-B3C6-8E9272C58E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B8CA73-6DE9-430B-B3C6-8E9272C58E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74639885-E030-4EF2-BC74-66E4DAD811C8}
+	EndGlobalSection
+EndGlobal
